@@ -1,0 +1,1 @@
+/usr/bin/clang++  -std=c++17 -arch arm64 -isysroot /Library/Developer/CommandLineTools/SDKs/MacOSX14.4.sdk -Wl,-search_paths_first -Wl,-headerpad_max_install_names CMakeFiles/SwiggyZomato.dir/swiggy_zomato.cpp.o -o SwiggyZomato  libbackEnd.a 

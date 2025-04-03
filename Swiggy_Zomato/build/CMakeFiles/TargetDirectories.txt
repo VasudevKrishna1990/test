@@ -1,0 +1,4 @@
+/Users/ayaankrishna/Desktop/git_repo/Swiggy_Zomato/build/CMakeFiles/backEnd.dir
+/Users/ayaankrishna/Desktop/git_repo/Swiggy_Zomato/build/CMakeFiles/SwiggyZomato.dir
+/Users/ayaankrishna/Desktop/git_repo/Swiggy_Zomato/build/CMakeFiles/edit_cache.dir
+/Users/ayaankrishna/Desktop/git_repo/Swiggy_Zomato/build/CMakeFiles/rebuild_cache.dir

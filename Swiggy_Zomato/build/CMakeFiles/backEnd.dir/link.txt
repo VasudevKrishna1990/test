@@ -1,0 +1,2 @@
+/usr/bin/ar qc libbackEnd.a CMakeFiles/backEnd.dir/deliveryMgr.cpp.o CMakeFiles/backEnd.dir/deliveryPartnerMgr.cpp.o CMakeFiles/backEnd.dir/foodMgr.cpp.o CMakeFiles/backEnd.dir/notificationMgr.cpp.o CMakeFiles/backEnd.dir/orderMgr.cpp.o CMakeFiles/backEnd.dir/restaurantMgr.cpp.o CMakeFiles/backEnd.dir/strategyMgr.cpp.o CMakeFiles/backEnd.dir/userMgr.cpp.o
+/usr/bin/ranlib libbackEnd.a
